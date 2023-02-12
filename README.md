@@ -1,10 +1,10 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-![Snake animation](https://github.com/juniorcodinglab/juniorcodinglab/blob/output/github-contribution-grid-snake.svg)
 
 # Olá, me chamo Silvio Junior! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+![Snake animation](https://github.com/juniorcodinglab/juniorcodinglab/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedor WEB no e-commerce FutFanatics
 - 🌱 Atualmente estou aprendendo focando meu aprendizado stack em javascript, usando React.Js no front-end e Node.js com Express no Back-end.
