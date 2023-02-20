@@ -7,8 +7,9 @@
 ![Snake animation](https://github.com/juniorcodinglab/juniorcodinglab/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedor WEB no e-commerce FutFanatics
-- 🌱 Atualmente estou aprendendo focando meu aprendizado stack em javascript, usando React.Js no front-end e Node.js com Express no Back-end.
-- ⚡ Curiosidade: Tenho um instagram focado em programação (+10k de seguidores) e estou me programando para postar vídeos no Youtube e na Twitch.
+- 🌱 Atualmente focando meu aprendizado na stack em javascript, usando React.Js no front-end e Node.js com Express no Back-end.
+- ⚡ *Curiosidades*: 
+  - Tenho um instagram focado em programação (+10k de seguidores) e estou me programando para postar vídeos no Youtube e na Twitch.
   - Estudo inglês diariamente e estou me programando para fazer algum intercâmbio para aprender mais o idioma.
 
 # Ferramentas e Tecnologias
