@@ -9,7 +9,7 @@
 - 🔭 Atualmente estou trabalhando como Desenvolvedor WEB no e-commerce FutFanatics
 - 🌱 Atualmente focando meu aprendizado na stack em javascript, usando React.Js no front-end e Node.js com Express no Back-end.
 - ⚡ *Curiosidades*: 
-  - Tenho um instagram focado em programação (+10k de seguidores) e estou me programando para postar vídeos no Youtube e na Twitch.
+  - Tenho um instagram focado em programação (+10k de seguidores) e estou me programando para postar vídeos no Youtube.
 
 # Ferramentas e Tecnologias
 
