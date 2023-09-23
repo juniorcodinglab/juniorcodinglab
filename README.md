@@ -1,41 +1,58 @@
+# Hello, my name is Silvio Junior!
+
+## Welcome to my GitHub profile. 👋
+
+- 🔭 I am currently working as a Full-Stack Developer at the e-commerce company  [FutFanatics](https://www.futfanatics.com.br).
+- 🌱 I am a PHP developer and currently I am focusing my efforts on learning the JavaScript stack, using React.js on the front-end and Node.js with Express on the back-end.
+- ⚡ *Curiosity*:
+  - I have an Instagram ([@junior.coding](https://www.instagram.com/junior.coding/)) account focused on programming (+10k followers) and I'm planning to start posting videos on YouTube.
+
+## Tools and Technologies
+
+### Front-End
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-# Olá, me chamo Silvio Junior! 
-## Bem vindo ao meu perfil GitHub 👋
-
-![Snake animation](https://github.com/juniorcodinglab/juniorcodinglab/blob/output/github-contribution-grid-snake.svg)
-
-- 🔭 Atualmente estou trabalhando como Desenvolvedor WEB no e-commerce FutFanatics
-- 🌱 Atualmente focando meu aprendizado na stack em javascript, usando React.Js no front-end e Node.js com Express no Back-end.
-- ⚡ *Curiosidades*: 
-  - Tenho um instagram focado em programação (+10k de seguidores) e estou me programando para postar vídeos no Youtube.
-
-# Ferramentas e Tecnologias
-
-### Front-End
 <div style="display: flex; gap: 20px">
-  <img style="width:50px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-  <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-  <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <div style="display: flex;">
+    <img style="width:50px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </div>
+
+  <div>
+      <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </div>
+
+  <div>
+      <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </div>
+
+  <div>
+    <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+  </div>
+
+  <div>
+      <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  </div>
+
+  <div>
+      <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </div>
+
+  <div>
+      <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  </div>
+
+  <div>
+      <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+  </div>
+
 </div>
 
 ### Back-End
 <div style="display: flex; gap: 20px">
   <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-
 </div>
-
-### S.O
-<img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-
 
 ## Contatos
 <div>
@@ -53,4 +70,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcodinglab&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorcodinglab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
